@@ -1,0 +1,125 @@
+.title {
+  text-align: center;
+  margin: 5px;
+}
+h3 {
+  text-align: center;
+}
+
+body {
+  background-color: #b8a9c6;
+  text-shadow: 2px 2px #7514ce;
+}
+
+.square {
+  background: white;
+  height: 5px;
+  width:  5px;
+  border: .25px solid;
+  box-sizing: border-box;
+}
+
+.circle{
+  background: white;
+  border: 1px solid;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  margin: auto;
+}
+
+.canvas {
+  width: 960px;
+  border: 5px solid;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.paletteBox {
+  width: 960px;
+  height: 50px;
+  border: 5px solid;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  background-color: white;
+}
+
+#currentColor{
+  width: 50px;
+  height: 25px;
+  border: 5px solid;
+  margin: auto;
+  background-color: white;
+}
+
+h2 {
+  text-align: center;
+}
+.hotPink {
+  background: HotPink;
+}
+.orchid {
+  background: Orchid;
+}
+.darkOrchid {
+  background: DarkOrchid;
+}
+.indigo {
+  background: Indigo;
+}
+.salmon {
+  background: Salmon;
+}
+.indianRed {
+  background: IndianRed;
+}
+.crimson {
+  background: Crimson;
+}
+.darkRed {
+  background: DarkRed;
+}
+.orangeRed {
+  background: OrangeRed;
+}
+.darkOrange {
+  background: DarkOrange;
+}
+.gold {
+  background: Gold;
+}
+.yellow {
+  background: yellow;
+}
+.limeGreen {
+  background: LimeGreen;
+}
+.green {
+  background: Green;
+}
+.deepSkyBlue {
+  background: DeepSkyBlue;
+}
+.royalBlue {
+  background: RoyalBlue;
+}
+.peru {
+  background: Peru;
+}
+.brown {
+  background: brown;
+}
+.darkGoldenRod {
+  background: DarkGoldenRod;
+}
+.lightGrey {
+  background: LightGrey;
+}
+.gray {
+  background: Gray;
+}
+.black {
+  background: Black;
+}
